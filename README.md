@@ -61,11 +61,6 @@ cd Imers-o-Front-Alura
 - Organização de componentes visuais
 - Interatividade básica com JavaScript
 
----
-
-## 📸 Preview
-
-> (Adicione aqui prints do projeto rodando — isso valoriza MUITO seu portfólio)
 
 ---
 
